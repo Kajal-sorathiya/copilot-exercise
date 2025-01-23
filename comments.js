@@ -1,5 +1,5 @@
 
-// Create we server
+// Create web server
 function start() {
 var http = require('http'); 
 var server = http.createServer(function (req, res) {
